@@ -1,12 +1,12 @@
 const {Router} = require("express");
 const multer = require("multer");
-const uploadConfig = require("../configs/fileUploaderConfig.js");
+const uploadConfig = require("../configs/fileUploaderConfig");
 
 const platesRoutes = Router();
 
-const PlatesImagemController = require("../controllers/PlatesImagemController.js");
-const PlatesController = require("../controllers/PlatesController.js");
-const ensureAuthenticated = require("../middlewares/verifyAuthentication.js");
+const PlatesImagemController = require("../controllers/PlatesImagemController");
+const PlatesController = require("../controllers/PlatesController");
+const ensureAuthenticated = require("../middlewares/verifyAuthentication");
 
 const platesController = new PlatesController();
 const platesImagemController = new PlatesImagemController();

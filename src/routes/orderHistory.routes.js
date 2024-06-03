@@ -2,7 +2,7 @@ const {Router} = require("express");
 
 const orderHistoryRoutes = Router();
 
-const OrderHistoryController = require("../Controllers/OrderHistoryController.js");
+const OrderHistoryController = require("../Controllers/OrderHistoryController");
 
 const orderHistoryController = new OrderHistoryController();
 
