@@ -31,7 +31,7 @@ Para iniciar sua própria jornada com o Food Explorer Backend, siga os passos:
 1. Clone o repositório.
    
    ```bash
-   git clone 
+   git clone https://github.com/kallyl15/food-explorer-back.git
    
 2. Instale as dependências.
     ```bash
