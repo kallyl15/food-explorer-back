@@ -1,4 +1,4 @@
-
+![image](https://github.com/kallyl15/food-explorer-back/assets/48924767/7096a97d-f780-4bb0-b567-afe68d64fe16)
 
 Bem-vindo ao motor de propulsão do Food Explorer! Este é o núcleo que alimenta nossa jornada cósmica através dos pratos deliciosos no universo de sabores. Prepare-se para decolar no espaço gastronômico!
 
