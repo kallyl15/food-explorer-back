@@ -44,7 +44,7 @@ Para iniciar sua própria jornada com o Food Explorer Backend, siga os passos:
 Agora, o motor de sua nave está pronto! O backend estará rodando em http://localhost:3333.
 
 ## 🌟 Acesse o projeto por aqui:
-
+https://foodexplorerkallyl.netlify.app/
 🔑 admin: admin@gmail.com - 123456
 
 ## 🪐 Contribuições
