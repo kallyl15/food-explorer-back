@@ -2,7 +2,7 @@ const {Router} = require("express");
 
 const favoritesRoutes = Router();
 
-const FavoritesController = require("../controllers/FavoritesController.js");
+const FavoritesController = require("../controllers/FavoritesController");
 
 const favoritesController = new FavoritesController();
 
